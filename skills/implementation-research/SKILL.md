@@ -1,5 +1,5 @@
 ---
-name: Implementation Research
+name: implementation-research
 description: Research credible real-world codebases to extract implementation patterns and ecosystem conventions without copying code blindly.
 ---
 

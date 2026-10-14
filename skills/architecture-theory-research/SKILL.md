@@ -1,5 +1,5 @@
 ---
-name: Architecture Theory Research
+name: architecture-theory-research
 description: Research established architecture concepts, guarantees, failure modes, and trade-offs before implementation design.
 ---
 

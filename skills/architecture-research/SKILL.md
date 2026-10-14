@@ -1,5 +1,5 @@
 ---
-name: Architecture Research
+name: architecture-research
 description: Investigate an unfamiliar architecture decision using local context, disciplined theory and implementation research, then present bounded options before implementation.
 ---
 
